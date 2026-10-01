@@ -1,0 +1,17 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 28,
+  "spacing": 0,
+  "modules-left": ["cpu", "memory"],
+  "modules-center": ["clock"],
+  "modules-right": ["battery"],
+  "cpu": {"format": "CPU {usage}%", "tooltip": false},
+  "memory": {"format": "RAM {percentage}%", "tooltip": false},
+  "clock": {"format": "{:%H:%M}", "tooltip-format": "{:%A, %d %B %Y}"},
+  "battery": {
+    "format": "BAT {capacity}%",
+    "format-charging": "BAT {capacity}% +",
+    "states": {"warning": 30, "critical": 15}
+  }
+}
