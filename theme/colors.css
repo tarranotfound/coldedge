@@ -1,0 +1,9 @@
+/* coldedge palette */
+
+:root {
+  --coldedge-bg: #09111f;
+  --coldedge-panel: #0e1a2b;
+  --coldedge-blue: #8fb7d9;
+  --coldedge-white: #f4f7fb;
+  --coldedge-muted: #8a9aae;
+}
