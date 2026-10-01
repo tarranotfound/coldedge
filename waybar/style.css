@@ -1,0 +1,12 @@
+@define-color bg #09111f;
+@define-color panel #0e1a2b;
+@define-color blue #8fb7d9;
+@define-color white #f4f7fb;
+@define-color muted #8a9aae;
+
+* { border: none; border-radius: 0; font-family: "JetBrains Mono", monospace; font-size: 11px; min-height: 0; }
+window#waybar { background: @bg; color: @white; }
+#cpu, #memory, #clock, #battery { padding: 0 10px; background: @panel; border-bottom: 1px solid @blue; }
+#clock { color: @blue; font-weight: 600; }
+#battery.warning { color: @blue; }
+#battery.critical { color: @white; }
