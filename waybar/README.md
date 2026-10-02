@@ -9,3 +9,5 @@ Layout:
 - right: battery
 
 Start it with: waybar -c ~/.config/waybar/config.jsonc -s ~/.config/waybar/style.css
+
+The stylesheet keeps borders thin and avoids rounded containers.
