@@ -10,3 +10,5 @@ window#waybar { background: @bg; color: @white; }
 #clock { color: @blue; font-weight: 600; }
 #battery.warning { color: @blue; }
 #battery.critical { color: @white; }
+
+/* Keep the visual language flat, compact, and text-first. */
