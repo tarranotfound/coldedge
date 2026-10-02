@@ -7,3 +7,5 @@
   --coldedge-white: #f4f7fb;
   --coldedge-muted: #8a9aae;
 }
+
+/* Shared tokens keep Waybar and wlclock visually related. */
