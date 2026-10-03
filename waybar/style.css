@@ -12,3 +12,4 @@ window#waybar { background: @bg; color: @white; }
 #battery.critical { color: @white; }
 
 /* Keep the visual language flat, compact, and text-first. */
+#cpu, #memory, #clock, #battery { margin: 0; }
