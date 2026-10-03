@@ -11,3 +11,5 @@ Layout:
 Start it with: waybar -c ~/.config/waybar/config.jsonc -s ~/.config/waybar/style.css
 
 The stylesheet keeps borders thin and avoids rounded containers.
+
+The configuration is intentionally free of icon dependencies.
