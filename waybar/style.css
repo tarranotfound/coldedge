@@ -13,3 +13,5 @@ window#waybar { background: @bg; color: @white; }
 
 /* Keep the visual language flat, compact, and text-first. */
 #cpu, #memory, #clock, #battery { margin: 0; }
+
+/* Preserve a single-pixel accent line for the compact bar. */
