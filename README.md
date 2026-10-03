@@ -13,3 +13,7 @@ coldedge keeps the bar, clock, Sway snippets, and shared palette separate so eac
 ## Design
 
 The interface favors compact text, straight edges, and a restrained blue-and-white palette.
+
+## Status
+
+The theme is intentionally lightweight and can be used as a starting point for a Sway desktop.
