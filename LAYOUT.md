@@ -11,3 +11,5 @@ The layout intentionally leaves the main Sway workspace visually clear.
 ## Spacing
 
 The bar uses compact module padding while the clock keeps a larger separation from the screen edges.
+
+This spacing keeps status information present without competing with tiled windows.
