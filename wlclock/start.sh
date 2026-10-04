@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# Keep wlclock visually detached from the Waybar surface.
 exec wlclock \
   --position bottom-right \
   --margin 24 \
