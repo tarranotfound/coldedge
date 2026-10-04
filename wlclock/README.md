@@ -9,3 +9,5 @@ The clock uses a deep-blue background, a thin white border, and no input handlin
 It is deliberately independent from Waybar so either clock surface can be restarted without rebuilding the other.
 
 Use the supplied start and restart scripts when testing the clock independently.
+
+Keeping the clock separate also makes Waybar reloads less disruptive.
