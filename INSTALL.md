@@ -17,3 +17,7 @@ For a quick Waybar restart:
     waybar -c ~/.config/waybar/config.jsonc -s ~/.config/waybar/style.css
 
 Keep the reload command identical to the Sway startup snippet.
+
+## Permissions
+
+The helper scripts are intended to be executable after installation.
