@@ -15,3 +15,5 @@ The stylesheet keeps borders thin and avoids rounded containers.
 The configuration is intentionally free of icon dependencies.
 
 Module order is kept explicit so the layout stays predictable.
+
+The bar is designed to remain readable even when the workspace is visually busy.
