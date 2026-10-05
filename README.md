@@ -17,3 +17,7 @@ The interface favors compact text, straight edges, and a restrained blue-and-whi
 ## Status
 
 The theme is intentionally lightweight and can be used as a starting point for a Sway desktop.
+
+## Philosophy
+
+Keep each component understandable on its own and avoid visual effects that add complexity without improving the layout.
