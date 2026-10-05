@@ -14,3 +14,5 @@ Keep the includes near the other startup commands so they are easy to find later
 If the bar does not appear, run the Waybar command manually and check its terminal output before restarting Sway.
 
 The same manual-first approach applies to wlclock.
+
+If only one surface fails, restart that component independently before restarting Sway.
