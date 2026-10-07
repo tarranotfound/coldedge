@@ -17,3 +17,4 @@ window#waybar { background: @bg; color: @white; }
 /* Preserve a single-pixel accent line for the compact bar. */
 /* Keep module surfaces aligned with the shared coldedge palette. */
 /* No rounded containers: geometry stays deliberately strict. */
+/* Fixed typography keeps the compact layout predictable. */
