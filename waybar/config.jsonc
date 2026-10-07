@@ -15,3 +15,5 @@
     "states": {"warning": 30, "critical": 15}
   }
 }
+
+// Keep the module order explicit: left, center, then right.
