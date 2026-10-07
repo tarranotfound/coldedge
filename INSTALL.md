@@ -21,3 +21,7 @@ Keep the reload command identical to the Sway startup snippet.
 ## Permissions
 
 The helper scripts are intended to be executable after installation.
+
+## Verification
+
+Check each component manually before adding its startup include to Sway.
