@@ -13,3 +13,7 @@ Use the supplied start and restart scripts when testing the clock independently.
 Keeping the clock separate also makes Waybar reloads less disruptive.
 
 The clock is intentionally treated as a single-purpose visual layer.
+
+## Responsibility
+
+wlclock owns only the detached clock surface; status modules remain in Waybar.
