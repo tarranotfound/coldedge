@@ -17,3 +17,7 @@ This spacing keeps status information present without competing with tiled windo
 ## Alignment
 
 The center clock remains visually independent from the left and right status groups.
+
+## Geometry
+
+Straight edges are preferred so spacing remains predictable across both layers.
