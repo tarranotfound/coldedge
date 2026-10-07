@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # Keep wlclock visually detached from the Waybar surface.
+# Geometry is explicit so the layer stays stable across reloads.
 exec wlclock \
   --position bottom-right \
   --margin 24 \
