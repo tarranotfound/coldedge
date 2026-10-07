@@ -21,3 +21,7 @@ The theme is intentionally lightweight and can be used as a starting point for a
 ## Philosophy
 
 Keep each component understandable on its own and avoid visual effects that add complexity without improving the layout.
+
+## Scope
+
+coldedge focuses on presentation rather than replacing the user's Sway workflow.
