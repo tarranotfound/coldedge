@@ -16,3 +16,7 @@ If the bar does not appear, run the Waybar command manually and check its termin
 The same manual-first approach applies to wlclock.
 
 If only one surface fails, restart that component independently before restarting Sway.
+
+## Startup order
+
+Treat the two layers as independent startup units; one failing should not require changing the other.
